@@ -16,7 +16,7 @@ overviewFootnote    = "Civilian Presence Extended";     // Where?
 // Action Button, Label/Tooltip
 actionName  = "Github";
 // Action Button, Website URL
-action      = "https://github.com/Andx667/civilian_presence_extended";
+action      = "https://github.com/Andx667/civilian-presence-extended";
 // Hide the extension name
 hideName    = "false";
 // Hide the extension menu

@@ -1,22 +1,22 @@
 # Civilian Presence Extended
 
 <p align="center">
-    <img src="https://github.com/Andx667/civilian_presence_extended/blob/main/img/logo.png" alt="Civilian Presence Extended Logo">
+    <img src="https://github.com/Andx667/civilian-presence-extended/blob/main/img/logo.png" alt="Civilian Presence Extended Logo">
 </p>
 
 <p align="center">
-    <a href="https://github.com/Andx667/civilian_presence_extended/issues">
-        <img src="https://img.shields.io/github/issues-raw/Andx667/civilian_presence_extended.svg?style=flat-square&label=Issues" alt="Civilian Presence Extended Issues">
+    <a href="https://github.com/Andx667/civilian-presence-extended/issues">
+        <img src="https://img.shields.io/github/issues-raw/Andx667/civilian-presence-extended.svg?style=flat-square&label=Issues" alt="Civilian Presence Extended Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3617266753">
         <img src="https://img.shields.io/steam/downloads/3617266753.svg?style=flat-square&label=Downloads" alt="Civilian Presence Extended Downloads">
     </a>
-    <a href="https://github.com/Andx667/civilian_presence_extended/blob/main/LICENSE">
+    <a href="https://github.com/Andx667/civilian-presence-extended/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="Civilian Presence Extended License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian_presence_extended/check.yml?style=flat-square&label=Check" alt="Check">
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian_presence_extended/validate.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian-presence-extended/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/civilian-presence-extended/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 __No hard dependencies__ — built on Arma 3's own Civilian Presence module. Each faction pack below activates automatically if you also run the matching mod.
